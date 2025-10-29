@@ -11,7 +11,7 @@ This repository showcases a few **selected public projects** and demos from my e
 ## 🚀 Featured Projects
 
 ### 🔹 1. Crypto Data Dashboard  
-A real-time dashboard that visualizes on-chain and off-chain data.    
+A real-time dashboard that visualizes on-chain and off-chain data.    
 - **Tech:** Next.js · Node.js · Ethers.js · REST APIs    
 - **Features:** Interactive charts, wallet connection, data sync  
 - **Highlights:** Designed for scalability and low-latency updates  
@@ -36,7 +36,7 @@ A sample decentralized app showcasing contract deployment and interaction.
 ---
 
 ## 🧰 Tech Stack
-**Languages:** JavaScript · TypeScript · Rust · Solidity · Python    
+**Languages:** JavaScript · TypeScript · Rust · Solidity · Python      
 **Frameworks:** React · Next.js · Node.js · Express · Hardhat    
 **Tools:** Docker · Cloudflare · GitHub Actions · API integration    
 **Blockchain:** Ethereum · Polygon · BSC    
