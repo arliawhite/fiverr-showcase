@@ -1,39 +1,53 @@
-# fiverr-showcase
-Showcase of selected Web, API, and Web3 projects.
-# My Web & Web3 Portfolio 🚀
+# 🌐 My Web & Web3 Portfolio
 
-Hi! I'm a full-stack developer experienced in Web3, API automation, and full-stack web development.  
-This repo showcases a few of my public projects and demos.
+Hi there 👋  
+I'm a **Full Stack & Web3 Developer** passionate about building high-performance systems that connect data, automation, and blockchain technology.
+
+This repository showcases a few **selected public projects** and demos from my experience in Web3, API automation, and full-stack web development.  
+(Some projects are under NDA and cannot be shared publicly.)
 
 ---
 
-## 🔹 Featured Projects
+## 🚀 Featured Projects
 
-### 1. Crypto Data Dashboard  
-- A dashboard for tracking on-chain and off-chain data in real-time  
-- Built with Next.js, Node.js, and Ethers.js  
-- [View Demo (screenshot)](./screenshots/dashboard.png)
+### 🔹 1. Crypto Data Dashboard  
+A real-time dashboard that visualizes on-chain and off-chain data.  
+- **Tech:** Next.js · Node.js · Ethers.js · REST APIs  
+- **Features:** Interactive charts, wallet connection, data sync  
+- **Highlights:** Designed for scalability and low-latency updates  
+🖼️ *(Demo screenshot placeholder — add `screenshots/dashboard.png`)*    
 
-### 2. API Automation Tool  
-- Custom automation script that integrates multiple APIs  
-- Built using Node.js and Express  
-- Handles data sync, formatting, and auto-deployment
+---
 
-### 3. Web3 Contract Demo  
-- Sample smart contract with front-end integration  
-- Built with Solidity + Hardhat + React  
-- [View Code Snippet](./smart-contract-demo)
+### 🔹 2. API Automation System  
+Custom backend automation tool integrating multiple APIs and handling real-time data tasks.  
+- **Tech:** Node.js · Express · TypeScript  
+- **Features:** Scheduled jobs, webhook listeners, error recovery  
+- **Highlights:** Optimized for uptime and API rate-limit handling  
+
+---
+
+### 🔹 3. Web3 Smart Contract + Frontend Demo  
+A sample decentralized app showcasing contract deployment and interaction.  
+- **Tech:** Solidity · Hardhat · React · Web3.js  
+- **Features:** Token minting UI, contract events listener  
+- **Highlights:** Focus on security, gas optimization, and UX  
 
 ---
 
 ## 🧰 Tech Stack
-- JavaScript / TypeScript  
-- React / Next.js / Node.js  
-- Solidity / Web3.js / Ethers.js  
-- Docker / Cloudflare / Automation Tools    
+**Languages:** JavaScript · TypeScript · Solidity · Python  
+**Frameworks:** React · Next.js · Node.js · Express · Hardhat  
+**Tools:** Docker · Cloudflare · GitHub Actions · API integration  
+**Blockchain:** Ethereum · Polygon · BSC  
 
 ---
 
-📫 **Contact:**  
-For collaborations or custom development — please reach out via Fiverr.  
-👉 [My Fiverr Profile](https://www.fiverr.com/)  
+## 📫 Contact
+If you'd like to collaborate or discuss a custom project,  
+please reach out via my **[Fiverr Profile](https://www.fiverr.com/)**.    
+> ⚠️ For privacy and NDA reasons, detailed project code is not publicly available.  
+
+---
+
+✨ *Building secure, scalable systems for the decentralized world — one project at a time.* ✨
